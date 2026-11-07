@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-core
+zhipuai
+chromadb
+pypdf
+pillow
